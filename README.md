@@ -1,4 +1,5 @@
 # PupperCoin
+Two ERC20 standard contracts have been deployed for payments: one minter contract to create fungible tokens, and a second one a standard crowdsale contract along with a helper contract for actual exchange of tokens for ether.
 
 ## PupperCoin.sol (minter contract)
 Name: PupCoin
